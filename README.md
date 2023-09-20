@@ -19,7 +19,7 @@ I'm looking for job Web Development/Software Development/Full Stack Developer...
 📩 gawalisaurabh007@gmail.com
 
 📞 +91-9011901240
-
-## 🛠 Skills
+# 
+🛠 Skills
 HTML, Javascript, CSS , Angular, Spring , Mysql
 
