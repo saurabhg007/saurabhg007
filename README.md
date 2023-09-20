@@ -1,8 +1,9 @@
 
 # Hi 👋🏻, I'm Saurabh Gawali
 ## 🚀 About Me
-I'm looking for job Web Development/Software Development/Full Stack Developer....😎
-🌱 I’m currently learning Full Stack Java/Javascript/HTML/CSS/Angular💻📝🙇‍♂️
+I'm looking for job Web Development/ Software Development/ Full Stack Developer....😎
+
+🌱 I’m currently learning Full Stack Java/ Javascript/ HTML/ CSS/ Angular💻📝🙇‍♂️
 
 💞️ I’m looking for a good IT Industry as well as growth in this IT Field..😍
 
