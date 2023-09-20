@@ -21,9 +21,9 @@ I'm looking for job Web Development/Software Development/Full Stack Developer...
 
 📫 How to reach me...
 
-📩 diptanubaidya4@gmail.com
+📩 gawalisaurabh007@gmail.com
 
-📞 +91-9366609069
+📞 +91-9011901240
 
 
  
