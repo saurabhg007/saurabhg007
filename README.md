@@ -1,11 +1,7 @@
 
-
-
 # Hi 👋🏻, I'm Saurabh Gawali
-
 ## 🚀 About Me
 I'm looking for job Web Development/Software Development/Full Stack Developer....😎
-
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saurabhportfolio007.netlify.app/)
@@ -24,13 +20,6 @@ I'm looking for job Web Development/Software Development/Full Stack Developer...
 📩 gawalisaurabh007@gmail.com
 
 📞 +91-9011901240
-
-
- 
-
-
-
-
 
 ## 🛠 Skills
 HTML, Javascript, CSS , Angular, Spring , Mysql
