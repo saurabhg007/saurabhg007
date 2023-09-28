@@ -20,5 +20,5 @@ I'm looking for job Web Development/ Software Development/ Full Stack Developer.
 [![Instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saurabhgawali___007/)
 
 ## 🛠 Skills
-HTML, Javascript, CSS , Angular, Spring , Mysql
+HTML,  CSS ,Javascript, Java, Angular, Spring , Mysql
 
